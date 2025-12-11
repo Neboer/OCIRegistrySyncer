@@ -145,6 +145,9 @@ ghcr.io:
     dotwee/matrix-synapse-s3:
       - "latest"
       - "stable"
+    neboer/little-share:
+     - "latest"
+
 docker.gitea.com:
   images:
     gitea:
