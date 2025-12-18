@@ -79,6 +79,10 @@ docker.io:
       - "2"
     powerdns/pdns-auth-50:
       - "latest"
+    powerdns/lightningstream:
+      - "latest"
+    powerdns/pdns-recursor-54:
+      - "latest"
     coturn/coturn:
       - "latest"
     chrislusf/seaweedfs:
