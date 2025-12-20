@@ -122,6 +122,8 @@ docker.io:
     portainer/portainer-ce:
       - "latest"
       - "lts"
+    wolveix/satisfactory-server:
+      - "latest"
 ghcr.io:
   images:
     fatedier/frps:
