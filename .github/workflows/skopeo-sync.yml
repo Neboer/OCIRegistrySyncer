@@ -35,8 +35,8 @@ jobs:
         run: |
           ./install-realscoped-skopeo.sh
 
-      - name: Run skopeo sync
-        env:
-          TARGET_REPO: ${{ secrets.TARGET_REPO }}
-        run: |
-          ./skopeo-sync.sh
+      # - name: Run skopeo sync
+      #   env:
+      #     TARGET_REPO: ${{ secrets.TARGET_REPO }}
+      #   run: |
+      #     ./skopeo-sync.sh
