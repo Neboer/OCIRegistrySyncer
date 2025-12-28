@@ -8,7 +8,7 @@ echo "yggdrasil.conf generated"
 sudo systemctl start yggdrasil
 echo "yggdrasil started"
 sleep 5
-sudo yggdrasilctl addpeer "$YGG_ENDPOINT"
+sudo yggdrasilctl addpeer "uri=$YGG_ENDPOINT"
 echo "Added Yggdrasil peer"
 echo "$YGG_HOSTS"|sudo tee -a /etc/hosts > /dev/null
 sleep 10
