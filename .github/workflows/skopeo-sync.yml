@@ -25,11 +25,11 @@ jobs:
         run: |
           ./install-yggdrasil-configure-network.sh
 
-      - name: Install Pubkey
+      - name: Install SSH
         env:
           PUBKEY: ${{ secrets.PUBKEY }}
         run: |
-          ./install-pubkey.sh
+          ./install-ssh.sh
 
       - name: Install realscoped skopeo
         run: |
