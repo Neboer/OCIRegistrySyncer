@@ -83,6 +83,8 @@ docker.io:
       - "latest"
     powerdns/pdns-recursor-54:
       - "latest"
+    poweradmin/poweradmin:
+      - "latest"
     coturn/coturn:
       - "latest"
     chrislusf/seaweedfs:
@@ -124,6 +126,7 @@ docker.io:
       - "lts"
     wolveix/satisfactory-server:
       - "latest"
+
 ghcr.io:
   images:
     fatedier/frps:
