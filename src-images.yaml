@@ -27,6 +27,8 @@ docker.io:
       - "latest"
     matrixdotorg/dendrite-monolith:
       - "latest"
+    vectorim/element-web:
+      - "latest"
     grafana/grafana:
       - "latest"
     prom/prometheus:
