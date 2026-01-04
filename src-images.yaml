@@ -157,7 +157,9 @@ ghcr.io:
       - "latest"
       - "stable"
     neboer/little-share:
-     - "latest"
+      - "latest"
+    sagernet/sing-box:
+      - "latest"
 
 docker.gitea.com:
   images:
