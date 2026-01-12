@@ -10,6 +10,7 @@ docker.io:
       - "latest"
     rockylinux/rockylinux:
       - "10-ubi-micro"
+      - "10-ubi-init"
     ubuntu:
       - "26.04"
     mariadb:
