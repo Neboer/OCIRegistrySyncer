@@ -8,6 +8,10 @@ docker.io:
       - "latest"
     archlinux:
       - "latest"
+    rockylinux/rockylinux:
+      - "10-ubi-micro"
+    ubuntu:
+      - "26.04"
     mariadb:
       - "latest"
       - "lts-ubi9"
