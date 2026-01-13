@@ -2,6 +2,9 @@ docker.io:
   images:
     nginx:
       - "latest"
+    haproxy:
+      - "latest"
+      - "lts"
     alpine:
       - "latest"
     registry:
@@ -26,6 +29,10 @@ docker.io:
       - "latest"
     postgres:
       - "18"
+    redis:
+      - "latest"
+    influxdb:
+      - "1.12"
     matrixdotorg/synapse:
       - "latest"
     matrixdotorg/sygnal:
@@ -133,7 +140,10 @@ docker.io:
       - "lts"
     wolveix/satisfactory-server:
       - "latest"
-
+    thijsvanloef/palworld-server-docker:
+      - "latest"
+    ryshe/terraria:
+      - "latest"
 ghcr.io:
   images:
     fatedier/frps:
