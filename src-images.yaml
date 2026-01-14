@@ -33,6 +33,9 @@ docker.io:
       - "latest"
     influxdb:
       - "1.12"
+    mongo:
+      - "8.0"
+      - "latest"
     matrixdotorg/synapse:
       - "latest"
     matrixdotorg/sygnal:
@@ -144,6 +147,9 @@ docker.io:
       - "latest"
     ryshe/terraria:
       - "latest"
+    shantanupatil01/overleaf-extended:
+      - "latest"
+    
 ghcr.io:
   images:
     fatedier/frps:
