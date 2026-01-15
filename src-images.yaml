@@ -29,6 +29,7 @@ docker.io:
       - "latest"
     postgres:
       - "18"
+      - “17”
     redis:
       - "latest"
     influxdb:
