@@ -36,6 +36,8 @@ docker.io:
     mongo:
       - "8.0"
       - "latest"
+    certbot/certbot:
+      - "latest"
     matrixdotorg/synapse:
       - "latest"
     matrixdotorg/sygnal:
