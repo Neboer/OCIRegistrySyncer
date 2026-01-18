@@ -152,6 +152,9 @@ docker.io:
       - "latest"
     shantanupatil01/overleaf-extended:
       - "latest"
+    pgautoupgrade/pgautoupgrade:
+      - "latest"
+      - "18-alpine"
     
 ghcr.io:
   images:
