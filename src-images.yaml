@@ -105,6 +105,8 @@ docker.io:
       - "latest"
     poweradmin/poweradmin:
       - "latest"
+    powerdnsadmin/pda-legacy:
+      - "master"
     coturn/coturn:
       - "latest"
     chrislusf/seaweedfs:
