@@ -150,8 +150,6 @@ docker.io:
       - "latest"
     thijsvanloef/palworld-server-docker:
       - "latest"
-    ryshe/terraria:
-      - "latest"
     shantanupatil01/overleaf-extended:
       - "latest"
     pgautoupgrade/pgautoupgrade:
@@ -189,6 +187,9 @@ ghcr.io:
       - "latest"
     sagernet/sing-box:
       - "latest"
+    passivelemon/terraria-docker:
+      - "latest"
+      - "terraria-1.4.5.4"
 
 docker.gitea.com:
   images:
