@@ -157,7 +157,9 @@ docker.io:
     pgautoupgrade/pgautoupgrade:
       - "latest"
       - "18-alpine"
-    
+    neilpang/acme.sh:
+      - "latest"
+
 ghcr.io:
   images:
     fatedier/frps:
