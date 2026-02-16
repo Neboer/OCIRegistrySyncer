@@ -159,6 +159,8 @@ docker.io:
       - "18-alpine"
     neilpang/acme.sh:
       - "latest"
+    vladgh/s3sync:
+      - "latest"
 
 ghcr.io:
   images:
