@@ -143,6 +143,8 @@ docker.io:
       - "latest"
     rustfs/rustfs:
       - "latest"
+    pgsty/minio:
+      - "latest"
     coredns/coredns:
       - "latest"
     portainer/portainer-ce:
