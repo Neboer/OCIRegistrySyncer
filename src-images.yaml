@@ -198,6 +198,7 @@ ghcr.io:
     passivelemon/terraria-docker:
       - "latest"
       - "terraria-1.4.5.4"
+      - "terraria-1.4.5.5"
       - "tmodloader-latest"
       - "tmodloader-latest-pre"
 
