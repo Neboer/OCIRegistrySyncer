@@ -201,6 +201,10 @@ ghcr.io:
       - "terraria-1.4.5.5"
       - "tmodloader-latest"
       - "tmodloader-latest-pre"
+    beardedio/terraria:latest:
+      - "latest"
+      - "vanilla-1.4.5.5"
+      - "tshock-latest"
 
 mcr.microsoft.com:
   images:
