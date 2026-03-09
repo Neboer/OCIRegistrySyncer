@@ -96,6 +96,8 @@ docker.io:
       - "main"
     linuxserver/jellyfin:
       - "latest"
+    jellyfin/jellyfin:
+      - "latest"
     louislam/uptime-kuma:
       - "latest"
       - "2"
