@@ -205,6 +205,8 @@ ghcr.io:
       - "latest"
       - "vanilla-1.4.5.5"
       - "tshock-latest"
+    martabal/qbittorrent-exporter:
+      - "latest"
 
 mcr.microsoft.com:
   images:
