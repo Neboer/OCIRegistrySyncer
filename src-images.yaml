@@ -209,6 +209,8 @@ ghcr.io:
       - "tshock-latest"
     martabal/qbittorrent-exporter:
       - "latest"
+    ghcr.io/shokoanime/server:
+      - "latest"
 
 mcr.microsoft.com:
   images:
