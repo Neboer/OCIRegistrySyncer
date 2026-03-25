@@ -165,6 +165,8 @@ docker.io:
       - "latest"
     vladgh/s3sync:
       - "latest"
+    yucatovo/baidunetdisk-docker:
+      - "latest"
 
 ghcr.io:
   images:
