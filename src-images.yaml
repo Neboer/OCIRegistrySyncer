@@ -167,6 +167,8 @@ docker.io:
       - "latest"
     yucatovo/baidunetdisk-docker:
       - "latest"
+    collinwebdesigns/fastapi-dls:
+      - "latest"
 
 ghcr.io:
   images:
