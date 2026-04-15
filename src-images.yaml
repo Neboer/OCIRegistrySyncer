@@ -213,8 +213,18 @@ ghcr.io:
       - "tshock-latest"
     martabal/qbittorrent-exporter:
       - "latest"
-    ghcr.io/shokoanime/server:
+    shokoanime/server:
       - "latest"
+    immich-app/immich-server:
+      - "release"
+      - "v2"
+    immich-app/immich-machine-learning:
+      - "release"
+      - "v2"
+      - "release-cuda"
+      - "v2-cuda"
+    immich-app/postgres:
+      - "14-vectorchord0.5.3"
 
 mcr.microsoft.com:
   images:
