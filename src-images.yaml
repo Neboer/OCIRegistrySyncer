@@ -172,59 +172,59 @@ docker.io:
 
 ghcr.io:
   images:
-    fatedier/frps:
-      - "v0.65.0"
-    bitwarden/self-host:
-      - "latest"
-      - "beta"
+#     fatedier/frps:
+#       - "v0.65.0"
+#     bitwarden/self-host:
+#       - "latest"
+#       - "beta"
     element-hq/element-call:
       - "latest-ci"
-    sillytavern/sillytavern:
-      - "latest"
-    dani-garcia/vaultwarden:
-      - "latest"
-    etkecc/synapse-admin:
-      - "latest"
-    thomiceli/opengist:
-      - "latest"
-    formbricks/formbricks:
-      - "latest"
-    asciinema/asciinema-server:
-      - "latest"
+#     sillytavern/sillytavern:
+#       - "latest"
+#     dani-garcia/vaultwarden:
+#       - "latest"
+#     etkecc/synapse-admin:
+#       - "latest"
+#     thomiceli/opengist:
+#       - "latest"
+#     formbricks/formbricks:
+#       - "latest"
+#     asciinema/asciinema-server:
+#       - "latest"
     element-hq/lk-jwt-service:
       - "0.3.0"
       - "latest"
-    dotwee/matrix-synapse-s3:
-      - "latest"
-      - "stable"
-    neboer/little-share:
-      - "latest"
-    sagernet/sing-box:
-      - "latest"
-    passivelemon/terraria-docker:
-      - "latest"
-      - "terraria-1.4.5.4"
-      - "terraria-1.4.5.5"
-      - "tmodloader-latest"
-      - "tmodloader-latest-pre"
-    beardedio/terraria:
-      - "latest"
-      - "vanilla-1.4.5.5"
-      - "tshock-latest"
-    martabal/qbittorrent-exporter:
-      - "latest"
-    shokoanime/server:
-      - "latest"
-    immich-app/immich-server:
-      - "release"
-      - "v2"
-    immich-app/immich-machine-learning:
-      - "release"
-      - "v2"
-      - "release-cuda"
-      - "v2-cuda"
-    immich-app/postgres:
-      - "14-vectorchord0.5.3"
+#     dotwee/matrix-synapse-s3:
+#       - "latest"
+#       - "stable"
+#     neboer/little-share:
+#       - "latest"
+#     sagernet/sing-box:
+#       - "latest"
+#     passivelemon/terraria-docker:
+#       - "latest"
+#       - "terraria-1.4.5.4"
+#       - "terraria-1.4.5.5"
+#       - "tmodloader-latest"
+#       - "tmodloader-latest-pre"
+#     beardedio/terraria:
+#       - "latest"
+#       - "vanilla-1.4.5.5"
+#       - "tshock-latest"
+#     martabal/qbittorrent-exporter:
+#       - "latest"
+#     shokoanime/server:
+#       - "latest"
+#     immich-app/immich-server:
+#       - "release"
+#       - "v2"
+#     immich-app/immich-machine-learning:
+#       - "release"
+#       - "v2"
+#       - "release-cuda"
+#       - "v2-cuda"
+#     immich-app/postgres:
+#       - "14-vectorchord0.5.3"
 
 mcr.microsoft.com:
   images:
