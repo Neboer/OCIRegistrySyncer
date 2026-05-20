@@ -225,6 +225,8 @@ ghcr.io:
 #       - "v2-cuda"
 #     immich-app/postgres:
 #       - "14-vectorchord0.5.3"
+    vuetorrent/vuetorrent-lsio-mod:
+      - "latest"
 
 mcr.microsoft.com:
   images:
