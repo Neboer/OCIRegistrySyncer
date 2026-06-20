@@ -151,6 +151,8 @@ docker.io:
       - "latest"
     yucatovo/baidunetdisk-docker:
       - "latest"
+    jeessy/ddns-go:
+      - "latest"
 
 ghcr.io:
   images:
