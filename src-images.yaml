@@ -55,24 +55,6 @@ docker.io:
       - "latest"
     prom/prometheus:
       - "main"
-    jitsi/base:
-      - "stable"
-    jitsi/base-java:
-      - "stable"
-    jitsi/prosody:
-      - "stable"
-    jitsi/jicofo:
-      - "stable"
-    jitsi/jvb:
-      - "stable"
-    jitsi/web:
-      - "stable"
-    jitsi/jigasi:
-      - "stable"
-    jitsi/jibri:
-      - "stable"
-    jitsi/jitsi-multitrack-recorder:
-      - "latest"
     grafana/loki:
       - "latest"
     mlikiowa/napcat-docker:
@@ -183,8 +165,8 @@ ghcr.io:
 #       - "latest"
 #     dani-garcia/vaultwarden:
 #       - "latest"
-#     etkecc/synapse-admin:
-#       - "latest"
+    etkecc/ketesa:
+      - "latest"
 #     thomiceli/opengist:
 #       - "latest"
 #     formbricks/formbricks:
