@@ -176,9 +176,9 @@ ghcr.io:
     element-hq/lk-jwt-service:
       - "0.3.0"
       - "latest"
-#     dotwee/matrix-synapse-s3:
-#       - "latest"
-#       - "stable"
+    dotwee/matrix-synapse-s3:
+      - "latest"
+      - "stable"
 #     neboer/little-share:
 #       - "latest"
 #     sagernet/sing-box:
