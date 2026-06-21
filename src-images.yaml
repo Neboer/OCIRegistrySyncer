@@ -41,6 +41,8 @@ docker.io:
     mongo:
       - "8.0"
       - "latest"
+    cloudflare/cloudflared:
+      - "latest"
     certbot/certbot:
       - "latest"
     matrixdotorg/synapse:
@@ -153,6 +155,7 @@ docker.io:
       - "latest"
     jeessy/ddns-go:
       - "latest"
+
 
 ghcr.io:
   images:
