@@ -155,7 +155,8 @@ docker.io:
       - "latest"
     jeessy/ddns-go:
       - "latest"
-
+    hurlenko/aria2-ariang:
+      - "latest"
 
 ghcr.io:
   images:
