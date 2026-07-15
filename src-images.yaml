@@ -157,6 +157,8 @@ docker.io:
       - "latest"
     hurlenko/aria2-ariang:
       - "latest"
+    amtoaer/bili-sync-rs:
+      - "latest"
 
 ghcr.io:
   images:
